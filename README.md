@@ -1,5 +1,5 @@
 # PHP Coding Challenge
-## Think you're a PHP wizard? We're hiring developers who can not only write clean code but also solve complex problems. Prove it!<br/><br/>
+## Think you're a PHP wizard? Prove it! We're hiring developers who can not only write clean code but also solve complex problems.<br/><br/>
 ###
 
 Develop a PHP command-line application that processes the [sample-logs.txt](https://github.com/pdsc-ph/php-coding-challenge/blob/main/sample-log.txt) file above. The program should extract and output specific data from the file according to the following specifications:
