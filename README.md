@@ -34,7 +34,7 @@ Conditions:
 The program must create an output.txt file and contain the following details (see [sample-output.txt](https://github.com/pdsc-ph/php-coding-challenge/blob/main/sample-output.txt) file):
 1. A pipe delimited version of the log in the following format: ``<UserID>|<BytesTX|<BytesRX|<DateTime>|<ID>``
 2. A list of IDs sorted in ascending order. Review the sorting properly. Below is an example of an improper sorting:
-``
+```
 .
 .
 1000VM-B28F
@@ -44,8 +44,8 @@ The program must create an output.txt file and contain the following details (se
 100BT-T92V
 .
 .
-``
-3. A list of unique UserIDs sorted in ascending order with a result id enclosed in [ ] (Example: ``[1] <UserID>``)
+```
+4. A list of unique UserIDs sorted in ascending order with a result id enclosed in [ ] (Example: ``[1] <UserID>``)
 
 ##
 ## To submit your application, please send your program, the generated output file, and your Curriculum Vitae (CV) or Resume to <ins>**careers.it@pds.dbello.com**</ins>. Kindly provide your mobile phone number within the email so that we may contact you.<br/><br/>
