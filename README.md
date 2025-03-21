@@ -1,1 +1,1 @@
-# php-coding-challenge
+# PHP Coding Challenge
